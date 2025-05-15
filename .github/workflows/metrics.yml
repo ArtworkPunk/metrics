@@ -1,0 +1,70 @@
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * *" }] 
+  workflow_dispatch:               
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ArtworkPunk 
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Moscow
+          config_twemoji: yes
+          config_order: base.header, isocalendar, languages, achievements, anilist, leetcode, steam, stackoverflow, topics, licenses
+
+          # 📅 Isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 🈷️ Languages activity
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 1%
+
+          # 📌 Starred topics
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+
+          # 📜 Licenses of your repos
+          plugin_licenses: yes
+
+          # 💫 Star lists
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 2
+
+          # 🌟 Recently starred repos
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+          # 🏆 Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+
+          # 🗼 RSS Feed
+          plugin_rss: yes
+          plugin_rss_source: https://www.goha.ru/rss/news
+          plugin_rss_limit: 3
+
+          # ♐ Random code snippet
+          plugin_code: yes
+
+          # 🕹️ Steam
+          plugin_steam: yes
+          plugin_steam_user: svgg 
+          plugin_steam_sections: recently-played, most-played
+          plugin_steam_limit: 2
+
+          # 🔧 Визуальные эффекты
+          config_padding: 20
+          config_display: columns
