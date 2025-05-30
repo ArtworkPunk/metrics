@@ -2060,6 +2060,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2308,8 +2313,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Persona 4 Remake — Юрий Лоуэнталь подтверждает разработку, но не вернется к роли Ёске</div>
-                                <div class="date">28 May 2025</div>
+                                <div class="title">Nvidia в первом квартале года поставила рекорд по доходам — но это до пошлин Трампа</div>
+                                <div class="date">29 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2317,8 +2322,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RPG Of Ash and Steel от российской студии приглашает на тестирование</div>
-                                <div class="date">28 May 2025</div>
+                                <div class="title">Актриса Эрин Фитцджеральд, голос Чиэ из Persona 4, высказалась о потенциальном ремейке</div>
+                                <div class="date">29 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2326,8 +2331,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">В Northgard скоро появится клана Гиппогрифа</div>
-                                <div class="date">28 May 2025</div>
+                                <div class="title">У вас есть менее суток, чтобы забрать в "Стиме" Hitman World of Assassination </div>
+                                <div class="date">29 May 2025</div>
                             </div>
                         </div>
                     </section>
@@ -2378,7 +2383,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2025, 04:38:53 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2025, 04:28:27 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
