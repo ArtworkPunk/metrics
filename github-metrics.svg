@@ -2060,6 +2060,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2308,8 +2313,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Кому нужны шпионы, когда есть форум War Thunder? Да, там снова опубликовали секретные документы по самолетам</div>
-                                <div class="date">25 Jun 2025</div>
+                                <div class="title">Частичный вайп и обновление в Dark and Darker</div>
+                                <div class="date">26 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2317,8 +2322,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Храбрые голландцы подали на Sony в суд из-за монополии PlayStation и конских ценников</div>
-                                <div class="date">25 Jun 2025</div>
+                                <div class="title">Забираем приключение Sable в EGS — в разработке участвовали консультаты Sweet Baby</div>
+                                <div class="date">26 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2326,8 +2331,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Разработчики No Rest for the Wicked наконец-то продемонстрировали результаты упорной работы</div>
-                                <div class="date">25 Jun 2025</div>
+                                <div class="title">На фоне заявления директора Twitch о том, что сервис не уходит из России, РКН напомнил ему о солидном долге за невыполнение требований местных законов</div>
+                                <div class="date">26 Jun 2025</div>
                             </div>
                         </div>
                     </section>
@@ -2378,7 +2383,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2025, 04:41:06 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2025, 04:42:25 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
