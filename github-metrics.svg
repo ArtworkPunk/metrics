@@ -2055,6 +2055,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2303,8 +2308,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">«Громовержцы*» или «Балерина»? Оба блокбастера уже можно посмотреть дома в 4K</div>
-                                <div class="date">1 Jul 2025</div>
+                                <div class="title">Мрачный сюжетный трейлер The Blood of Dawnwalker и немного игрового процесса</div>
+                                <div class="date">2 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2312,8 +2317,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Тихий и очень красивый лес на Unreal Engine 5</div>
-                                <div class="date">1 Jul 2025</div>
+                                <div class="title">Нишики и Рекка в трейлере Towa and the Guardians of the Sacred Tree с игровым процессом</div>
+                                <div class="date">2 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2321,8 +2326,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Первый тизер "Одиссеи" Кристофера Нолана — качество пиратское, но уже хоть что-то</div>
-                                <div class="date">1 Jul 2025</div>
+                                <div class="title">Последний бой — он причудливый самый: анонс MY HERO ACADEMIA: All’s Justice</div>
+                                <div class="date">2 Jul 2025</div>
                             </div>
                         </div>
                     </section>
@@ -2373,7 +2378,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2025, 04:41:52 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2025, 04:42:15 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
