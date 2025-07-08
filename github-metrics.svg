@@ -2045,6 +2045,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2293,8 +2298,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Аниме-экспансия Netflix в трейлерах и тизерах: свежие сезоны хитов, возвращение «Голубоглазого самурая» и Edgerunners 2 </div>
-                                <div class="date">6 Jul 2025</div>
+                                <div class="title">Кооперативная Twitch забава PEAK установила новый рекорд по количеству игроков</div>
+                                <div class="date">7 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2302,8 +2307,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Свежие слухи о релизе PlayStation 6 звучат более адекватно, чем выпуск приставки в 2026 году</div>
-                                <div class="date">6 Jul 2025</div>
+                                <div class="title">Сборы киноремейка «Как приручить дракона» перешагнули отметку в полмиллиарда долларов</div>
+                                <div class="date">7 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2311,8 +2316,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMD установила новый рекорд производительности процессоров</div>
-                                <div class="date">6 Jul 2025</div>
+                                <div class="title">Capcom хотела дать урок оптимизации на примере Monster Hunter Wilds, но испугалась угроз и отменила лекцию</div>
+                                <div class="date">7 Jul 2025</div>
                             </div>
                         </div>
                     </section>
@@ -2363,7 +2368,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2025, 04:47:16 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2025, 04:42:37 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
