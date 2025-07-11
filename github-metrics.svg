@@ -2060,6 +2060,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2308,8 +2313,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Acer Nitro VG271Z: монитор для геймеров, которым важна каждая миллисекунда</div>
-                                <div class="date">9 Jul 2025</div>
+                                <div class="title">Икона современного российского кинематографа Юра Борисов сыграет в голливудском фильме «Искусственный» о главе OpenAI</div>
+                                <div class="date">10 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2317,8 +2322,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">В Black Desert Mobile добавили мотивации в PvP и больше наград</div>
-                                <div class="date">9 Jul 2025</div>
+                                <div class="title">В ранний доступ вышел тактический рогалик Every Day We Fight — игроков пока мало, но отзывы очень хорошие</div>
+                                <div class="date">10 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2326,8 +2331,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Первый мини-ПК с процессором NVIDIA — ASUS рассказала о Ascent GX10</div>
-                                <div class="date">9 Jul 2025</div>
+                                <div class="title">Star Wars: Battlefront 2 неожиданно вернулась в топ-15 самых продаваемых игр</div>
+                                <div class="date">10 Jul 2025</div>
                             </div>
                         </div>
                     </section>
@@ -2378,7 +2383,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2025, 04:43:56 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jul 2025, 04:45:10 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
