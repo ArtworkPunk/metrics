@@ -2045,6 +2045,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2293,8 +2298,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CEO Marvel Rivals: "Для мирового киберспорта уже все готово"</div>
-                                <div class="date">10 Aug 2025</div>
+                                <div class="title">Спин-офф One Piece Heroines получит аниме-адаптацию</div>
+                                <div class="date">11 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2302,8 +2307,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ксал'атат может появиться в Hearthstone в виде облика для Жреца вместе с новым питомцем</div>
-                                <div class="date">10 Aug 2025</div>
+                                <div class="title">AMD доминирует на рынке материнских плат</div>
+                                <div class="date">11 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2311,8 +2316,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Игровой процесс Arkheron от авторов WoW, Diablo 3 и Battle.net покажут в сентябре с началом тестов</div>
-                                <div class="date">10 Aug 2025</div>
+                                <div class="title">Начинается дефицит AMD Ryzen 7 5700X3D — судя по всему, близко завершение производства</div>
+                                <div class="date">11 Aug 2025</div>
                             </div>
                         </div>
                     </section>
@@ -2363,7 +2368,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2025, 04:51:07 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2025, 04:40:48 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
